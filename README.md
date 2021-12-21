@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hello and Welcome!
-
-## You're probably wondering:
+# Hello and Welcome! <br /> You're probably wondering:
 
 "Who is this Jack character?" <br />
 Good question, I'm a software developer with an affinity for all things tech! 
