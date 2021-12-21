@@ -1,4 +1,4 @@
-### Hello and Welcome!
+# Hello and Welcome!
 
 ## "Who is this Jack character?" <br />
 Good question, I'm a software developer with an affinity for all things tech! 
