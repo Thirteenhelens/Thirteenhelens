@@ -1,5 +1,7 @@
 # Hello and Welcome!
 
+## You may be wondering:
+
 Who is this Jack character? <br />
 Good question, I'm a software developer with an affinity for all things tech! 
 
