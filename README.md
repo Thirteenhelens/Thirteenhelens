@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hello and Welcome!
+# Hello and Welcome!
 
 You're probably wondering:
 
