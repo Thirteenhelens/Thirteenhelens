@@ -1,6 +1,7 @@
+<div align="center">
 # Hello and Welcome!
 
-## You may be wondering:
+## You're probably wondering
 
 "Who is this Jack character?" <br />
 Good question, I'm a software developer with an affinity for all things tech! 
@@ -11,6 +12,7 @@ Ask me about my PC setup, how much I love Dark Souls 3 (hint: it's a lot), or my
 "I want to talk to this guy, he seems so cool!" <br />
 How nice of you to say! You can email me @ jbarrett1347@gmail.com, or contact me via [LinkedIn](https://www.linkedin.com/in/jack-barrett-0b7bba1b0/).
 
+ </div>
 <!--
 Oh no! Youve discovered my secret!
  |  👀  |
