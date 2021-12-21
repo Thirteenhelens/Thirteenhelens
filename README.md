@@ -3,7 +3,7 @@
 # Hello and Welcome! 🖐 <br /> <br /> You're probably wondering:
 
 "Who is this Jack character?" <br /> 
-Good question! I'm a software developer with an affinity for all things tech! 
+Good question! I'm a software developer with an affinity for all things tech.
 
 "Geez, all things tech? That seems awfully broad - what do I even talk to him about?" <br />
 Ask me about my PC setup, how much I love Dark Souls 3 (hint: it's a lot), or my latest finished project [From the Apple tree](https://github.com/Thirteenhelens/From_the_Apple_Tree)!
